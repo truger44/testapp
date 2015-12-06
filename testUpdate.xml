@@ -4,9 +4,9 @@
         <version>3.0.0.0</version> 
         <url>https://github.com/truger44/testapp/raw/master/HisDATa/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <md5>f7d371f82fac0a2f302ef091ce34c953</md5>
         <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        1. Changed form text.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
